@@ -7,3 +7,12 @@ Esta plataforma se creo gracias al apoyo de la Universidad Nacional de Colombia 
 
 Esta plataforma se creo en laravel 5.3
 Recuerde realizar la migración de la base de datos, mas información en la documentación de laravel
+
+
+## Prueba
+
+Se creo un enlace de prueba en la pagina
+
+http://bdt.ingenio.com.co
+
+Agradecimientos a Imagina Colombia e Ingenio por este espacio
