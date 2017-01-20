@@ -11,7 +11,7 @@ Recuerde realizar la migración de la base de datos, mas información en la docu
 
 ## Prueba
 
-Se creo un enlace de prueba en la pagina
+Se creo un enlace funcionl en la pagina para los estudiantes de la Universidad Nacional
 
 http://bdt.ingenio.com.co
 
